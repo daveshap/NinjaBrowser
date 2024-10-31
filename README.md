@@ -4,6 +4,8 @@
 
 *A new operating system for the decentralized future*
 
+**TLDR:** Ninja Browser is an ambitious open-source web browser project that aims to decentralize internet search by combining familiar Chromium-based browsing with peer-to-peer technology. Built on IPFS for distributed storage and ChromaDB for local semantic search, it creates a search index based on actual user browsing behavior rather than centralized crawlers. As users browse normally, they automatically contribute to and benefit from a distributed search network, while maintaining privacy by default. The browser handles all the technical complexity of decentralized systems in the background, making it as easy to use as traditional browsers while gradually reducing dependence on corporate search giants. Think of it as a privacy-focused browser that silently builds a collaborative, decentralized alternative to Google Search through its users' collective browsing activity.
+
 ## Background
 
 The internet has a search problem. As we move into an AI-driven future, the centralization of search under a few corporate giants has become more than an inconvenience—it's a bottleneck for innovation and a threat to open access to information. Current search engines rely on centralized crawlers, opaque algorithms, and corporate interests to determine what users can find and how they find it.
